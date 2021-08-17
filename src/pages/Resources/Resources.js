@@ -40,6 +40,17 @@ const resourceLinks = [
                     "https://www.ada.gov/pcatoolkit/chap5toolkit.htm",
                     "http://www.w3.org/WAI/standards-guidelines/"
                 ]
+            },
+            {
+                title:"Sound Careers In Health YouTube Channel",
+                urls:[]
+            },
+            {
+                title:"Explore Health Careers",
+                urls:["https://explorehealthcareers.org/"]
+            },            {
+                title:"Directions to a Career in Healthcare",
+                urls:["https://in.ewu.edu/ewahec/wp-content/uploads/sites/102/2020/11/Directions-to-a-Career-in-Health-2020.pdf"]
             }
         
         ]
